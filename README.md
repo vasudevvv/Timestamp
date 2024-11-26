@@ -8,7 +8,7 @@ therefore almost negligable amount of memory is used during their execution.
 The screenshot directory should not contain unnecessary files/folders as it may slow down the Timestamp process,
 so it is advised to only store screenshots in it.
 
-
+NOTE: Timestamp version 4 onwards would require OAuth credentials such as client_secrets.json or settings.yaml. These could be obtained from the Google Drive developer dashbaord and are required to be in the same directory as the Python file (could be changed). 
 #   TIMESTAMP Screenshots V.1   #
 
 * It involves taking a screenshot of the current screen discretely and naming it to the current date (DD-MM-YYYY).
